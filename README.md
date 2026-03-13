@@ -20,3 +20,17 @@ Perfect for:
 termogen record demo.cast
 termogen cut demo.cast --start 1 --end 4 -o short.cast
 termogen render short.cast -o demo.gif
+
+```
+---
+Get Termogen
+
+Download it here:
+
+https://sepehrmn.gumroad.com/l/trcabu
+
+Requirements
+
+Node.js
+asciinema
+agg
