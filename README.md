@@ -2,7 +2,7 @@
 
 Turn terminal sessions into clean README GIFs.
 
-![demo](demo.gif)
+![demo](demo_nord.gif)
 
 Termogen records terminal sessions and converts them into high-quality animated GIFs.
 
